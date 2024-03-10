@@ -8,4 +8,4 @@ from classes.many_to_many import Coffee
 if __name__ == '__main__':
     print("HELLO! :) let's debug")
 
-    ipdb.set_trace()
+    # ipdb.set_trace()
